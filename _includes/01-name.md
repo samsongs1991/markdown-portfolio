@@ -1,2 +1,2 @@
-# Header
-## By Sam
+# My Portfolio
+## Sam Song
